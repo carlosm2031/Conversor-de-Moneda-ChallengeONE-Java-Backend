@@ -29,7 +29,6 @@ public class Main {
                     case "5":
                     case "6":
                         realizarConversion(opcion, scanner);
-                        break;
                     case "7":
                         loop = false;
                         break;
